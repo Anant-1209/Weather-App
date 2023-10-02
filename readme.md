@@ -20,4 +20,3 @@ Key Features:
 
 🌡️ Temperature & Weather Alerts: Receive instant notifications for temperature changes and severe weather alerts, so you're never caught off guard.
 
-Whether you're planning a weekend getaway, a hiking adventure, or simply want to know if you'll need an umbrella tomorrow, WeatherNow has you covered. Download now and make every day a great weather day!
